@@ -1,0 +1,10 @@
+add css to make it look good - need more
+clean up code
+add hours when clicked
+switch to putting the table outline in html, then just load in the data
+	- or use DOM in javascript
+
+Done
+make basic parts work (loading, switching between linux and windows)
+add js to change color of meter
+Resize window as necessary

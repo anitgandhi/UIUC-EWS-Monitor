@@ -1,0 +1,11 @@
+.container
+{
+	position: relative;
+	overflow: auto;
+	width: 300px;
+}
+
+.meter1
+{
+	padding: 4px;
+}
